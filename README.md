@@ -1,4 +1,4 @@
-## CureMap: Seu parceiro na jornada pela saúde.
+## CureMap - Imersão Dev (Alura + Google Gemini)
 
 ### O que é o CureMap?
 O CureMap é um buscador de informações sobre saúde simples e direto. Ele te ajuda a encontrar rapidamente informações sobre diversos sintomas e condições, tudo de forma clara e concisa.
@@ -11,8 +11,3 @@ O CureMap é um buscador de informações sobre saúde simples e direto. Ele te 
 * **HTML:** Estrutura básica da página.
 * **CSS:** Estilização da página, deixando-a visualmente atraente.
 * **JavaScript:** Lógica da aplicação, incluindo a busca e a exibição dos resultados.
-
-### Como usar:
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://es.wiktionary.org/wiki/removido](https://es.wiktionary.org/wiki/removido)
