@@ -11,3 +11,6 @@ O CureMap é um buscador de informações sobre saúde simples e direto. Ele te 
 * **HTML:** Estrutura básica da página.
 * **CSS:** Estilização da página, deixando-a visualmente atraente.
 * **JavaScript:** Lógica da aplicação, incluindo a busca e a exibição dos resultados.
+
+### Acesse o Link do Projeto:
+https://curemap-projeto-alura-gemini.vercel.app/
