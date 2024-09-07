@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Styles/style.css">
+    <link rel="shortcut icon" href="./Images/favicon.png" type="image/x-icon">
+    <title>CureMap</title>
+</head>
+<body>
+    <header>
+        <img src="./Images/logo.png" alt="Logotipo da CureMap">
+        <h2>Seu parceiro na jornada pela saúde.</h2>
+    </header>
+    <main>
+        <section class="input">
+        <input type="text" placeholder="Digite aqui o que você está sentindo" id="barra-pesquisa">
+        <button onclick="pesquisar()" >Pesquisar</button>
+        </section>
+        <section class="resultados-pesquisa" id="resultados-pesquisa"></section>
+    </main>
+    <footer>
+        <p>2024 - CureMap. Todos os direitos Reservados</p>
+        <p>Nossa plataforma oferece informações sobre diversas condições de saúde, mas não substitui a orientação médica.</p>
+    </footer>
+    
+
+    <script src="./Scripts/database.js"></script>
+    <script src="./Scripts/app.js"></script>
+</body>
+</html>
