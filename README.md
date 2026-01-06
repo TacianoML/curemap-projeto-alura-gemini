@@ -1,8 +1,7 @@
 ## CureMap - Imersão Dev (Alura + Google Gemini)
 
 ### O que é o CureMap?
-O CureMap é um buscador de informações sobre saúde simples e direto. Ele te ajuda a encontrar rapidamente informações sobre diversos sintomas e condições, tudo de forma clara e concisa.
-
+É um buscador de informações sobre saúde simples e direto, produzido para prática e autodesenvolvimento em HTML, CSS e Javascript.
 ### Como funciona?
 1. **Pesquise:** Digite o sintoma ou condição que você está procurando na barra de pesquisa.
 2. **Encontre resultados:** O CureMap irá exibir os resultados mais relevantes, com informações sobre o sintoma, possíveis causas e links para mais informações.
